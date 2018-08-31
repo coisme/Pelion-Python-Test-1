@@ -11,7 +11,7 @@ You should use Python 2.7.x, not 3.x. Check your Python version by `python --ver
 
 `$ pip install mbed-cloud-sdk`
 
-## Download this project
+## Download Project
 
 `$ git clone https://github.com/coisme/Pelion-Python-Test-1.git`
 
